@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:31:59 +0530] "GET /result/1/Pranav HTTP/1.1" 404 981 http-bio-9090-exec-2 58
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:33:41 +0530] "GET /result/1/Pranav HTTP/1.1" 200 4 http-bio-9090-exec-2 63
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:38:35 +0530] "GET /result/1/Pranav HTTP/1.1" 500 13408 http-bio-9090-exec-2 98
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:40:43 +0530] "GET /result/1/Pranav HTTP/1.1" 500 12103 http-bio-9090-exec-2 97
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:42:08 +0530] "GET /result/1/Pranav HTTP/1.1" 500 4152 http-bio-9090-exec-2 65
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:47:19 +0530] "GET /result/1/Pranav HTTP/1.1" 200 4 http-bio-9090-exec-2 64
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:21:59:21 +0530] "GET /result/1/Pranav HTTP/1.1" 500 4044 http-bio-9090-exec-2 64

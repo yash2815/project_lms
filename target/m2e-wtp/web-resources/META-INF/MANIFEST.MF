@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pshinkar
+Build-Jdk: 19.0.2
+Implementation-Title: leaveManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: leaveManagementSystem
+Implementation-URL: https://spring.io/projects/spring-boot/leaveManageme
+ ntSystem
+Created-By: Maven Integration for Eclipse
+
